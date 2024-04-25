@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  user: one
+  valid_until: 2024-04-25 15:48:13
+
+two:
+  name: MyString
+  user: two
+  valid_until: 2024-04-25 15:48:13
