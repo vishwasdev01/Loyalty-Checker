@@ -1,0 +1,12 @@
+<p>
+  <strong>Name:</strong>
+  <%= @reward.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @reward.description %>
+</p>
+
+<%= link_to 'Edit', edit_user_reward_path(@user, @reward) %> |
+<%= link_to 'Back', user_rewards_path(@user) %>
